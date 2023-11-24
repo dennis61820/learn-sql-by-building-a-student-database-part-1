@@ -192,3 +192,4 @@ rm courses_test.csv students_test.csv
 ls --color=auto
 pg_dump --help
 pg_dump --clean --inserts --username=freecodecamp students > students.sql
+cat students.sql
