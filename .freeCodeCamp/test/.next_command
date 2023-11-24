@@ -190,3 +190,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 rm courses_test.csv students_test.csv
 ls --color=auto
+pg_dump --help
